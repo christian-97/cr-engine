@@ -8,8 +8,7 @@ __pycache__/
 
 # Distribution / packaging
 .Python
-build/ 
-#soy nuevo
+build/
 develop-eggs/
 dist/
 downloads/
